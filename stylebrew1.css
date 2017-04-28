@@ -1,0 +1,52 @@
+/* basic elements */
+
+body {
+  background-color: #93a3bc;
+  font-family: 'Raleway', sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #93a3bc;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 12px 14px;
+    text-decoration: none;
+
+}
+li a:hover {
+/*    background-color: #c9d3e2; */
+	border-left: 6px solid #334f7c;
+}
+
+
+/* specific divs */
+
+header h2 { 
+	font-family: 'Raleway', sans-serif;
+	}
+
+header h2 { 
+	font-family: 'Raleway', sans-serif;
+	}
+
+
+}	
+	
+	
+	
+	
+	
+	
+	
+	
+/*font-family: 'Raleway', sans-serif;
+/*font-family: 'Quicksand', sans-serif;
